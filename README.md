@@ -10,5 +10,5 @@ A ROS package for smoothing trajectories resulting from dynamic movements (e.g. 
 
 In the following plot, orange points correspond to the raw final filtered trajectory and blue to the smoothed trajectory produced by the `trajectory_smoothing_server`.
 
-<img src="https://github.com/ThanasisTs/trajectory_smoothing/blob/main/offline_trajectory_process/raw_smooth.png" width="1000">
+<img src="https://github.com/ThanasisTs/trajectory_smoothing/blob/main/raw_smooth.png" width="1000">
 
